@@ -1,0 +1,10 @@
+2023-08-06 03:33:09.092376 - Initialized conversion of CBT346
+2023-08-06 03:33:09.167959 - Received CBT.V505.FILE346.PDS from FILE346.XMI 
+2023-08-06 03:33:09.170417 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE346.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:33:09.171490 - Found $$DOC.txt (text/plain) in CBT.V505.FILE346.PDS, moved to PDS/$$DOC
+2023-08-06 03:33:09.172743 - Found $$EXIT44.txt (text/plain) in CBT.V505.FILE346.PDS, moved to PDS/$$EXIT44
+2023-08-06 03:33:09.173778 - Found @FILE346.txt (text/plain) in CBT.V505.FILE346.PDS, moved to PDS/@FILE346
+2023-08-06 03:33:09.174761 - Found HASPEX20.txt (text/plain) in CBT.V505.FILE346.PDS, moved to PDS/HASPEX20
+2023-08-06 03:33:09.175824 - Found HASPEX44.txt (text/plain) in CBT.V505.FILE346.PDS, moved to PDS/HASPEX44
+2023-08-06 03:33:09.176820 - Found HASP2520.txt (text/plain) in CBT.V505.FILE346.PDS, moved to PDS/HASP2520
+2023-08-06 03:33:09.177743 - Found HASP2604.txt (text/plain) in CBT.V505.FILE346.PDS, moved to PDS/HASP2604
